@@ -1,20 +1,10 @@
 # Arpita-Priyadarshini
-Hey Everyone, I'm from Cuttack, Odisha. An undergraduate Engineer. Completing my BTech from VSSUT, Burla.
+Hey Everyone, I'm from Cuttack, Odisha. An undergraduate Engineer. Currently pursuing my Bachelor's degree from VSSUT, Burla. I'm passionate about learning new things.  
 <h3 align="center">A passionate frontend developer, backend developer and apps.</h3>
 
-- I’m currently working on **javascript**
+How to reach me **arpitapriyadarshini254@gmail.vom**
 
-- I’m currently learning **java**
-
-- I’m looking to collaborate on **anything**
-
-- I’m looking for help with **learning new languages**
-
-- Ask me about **html,css**
-
-- How to reach me **arpitapriyadarshini254@gmail.vom**
-
-- Fun fact **I'm not a sarcastic person. I swear.**
+Fun fact **I'm not a sarcastic person. I swear.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
